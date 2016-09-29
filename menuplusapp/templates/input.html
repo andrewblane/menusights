@@ -16,12 +16,10 @@
    <!-- Custom styles for this template -->
    <link href="starter-template.css" rel="stylesheet">
 
-   <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-   <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-   <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+   <!-- Just for debugging purposes. Don't actually copy these 2 lines!
 
-   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-   <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+   <!-- IE10 viewport hack for Surface/desktop Windows 8 bug
+   <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
 
    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
    <!--[if lt IE 9]>
@@ -58,23 +56,26 @@
 <div class="container">
 
     <div class="starter-template">
-        <h2>Input Page</h2>
-        <p>Enter some user input</p>
+            <h2></h2>
+    <!-- Pasted from  -->
+<div class="row">
+  <div class="col-lg-8">
+    <form action="{{ url_for('restaurants') }}" method=GET>
+    <div class="input-group">
+      <input type="text" class="form-control input-lg" name = "restaurant_search_entry" id="restaurant_search_entry" placeholder="Search for a restaurant...">
+      <span class="input-group-btn">
+        <button class="btn btn-default input-lg" type="submit">Search!</button>
+      </span>
+    </div><!-- /input-group -->
+    </form>
+  </div><!-- /.col-lg-6 -->
+</div><!-- /.row -->
+
     </div>
 
     <div class = "container">
 
-      <form  action="/output" method="GET">
-        <div class="form-group">
-          <label for="menu_item_name">Menu Item:</label>
-          <input type="text" id="menu_item_name" name='menu_item_name' placeholder="e.g. ">
-        </div>
-
-        <div>
-          <button type="submit" class="btn btn-default btn-lg">Estimate the calorie content for these meals!</button>
-        </div>
-
-      </form>
+    
     </div>
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
