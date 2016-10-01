@@ -39,7 +39,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-         <a class="navbar-brand" href="#">Project name</a>
+         <a class="navbar-brand" href="#">MenuSights</a>
        </div>
        <div class="collapse navbar-collapse">
          <ul class="nav navbar-nav">
@@ -60,7 +60,7 @@
           <table class="table table-hover">
       <tr><th>Restaurant</th><th>Neighborhood</th></tr>
       {% for restaurant in found_restaurants %}
-      <tr><td><a href="restaurant/{{restaurant["id"]}}">{{restaurant["name"]}}</a></td><td>{{ restaurant["address"] }}</td></tr>
+      <tr><td><a href="{{restaurant["id"]}}">{{restaurant["name"]}}</a></td><td>{{ restaurant["address"] }}</td></tr>
       {% endfor %}
             </table>
 

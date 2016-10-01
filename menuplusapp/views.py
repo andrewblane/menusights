@@ -14,6 +14,7 @@ from importlib import import_module
 from dbmodels import *
 import flask_whooshalchemy
 import json
+from django.utils.encoding import smart_str
 
 user = 'andylane' #add your username here        
 host = 'localhost'
@@ -39,7 +40,7 @@ index_service.register_class(Restaurant)
 def cesareans_input():
     return render_template("input.html")
 
-@app.route('/restaurants')
+@app.route('/restaurants/')
 def restaurants():
     restaurant = request.args.get('restaurant_search_entry')
     found_restaurants = list(Restaurant.search_query(restaurant).all())
@@ -49,16 +50,16 @@ def restaurants():
         found_restaurants_decoded.append({"name": item.name, "address": address, "id": item.id})
     return render_template("restaurants.html", found_restaurants = found_restaurants_decoded)
 
-@app.route('/restaurants/<int:id>')
-def show_menu_items(id=id):
+@app.route('/restaurants/<int:id>/')
+def show_menu_items(id):
     menuitems = list(session.query(MenuItem).filter(MenuItem.restaurant_id == id).all())
+    restaurant = list(session.query(Restaurant).filter(Restaurant.id == id).all())[0]
+    matching_menu_items = []
     for item in menuitems:
-        address = json.loads(item.address)["locality"]
-        found_restaurants_decoded.append({"name": item.name, "address": address, "id": item.id})
-
-    print menuitems
-    return 'Menuitems from %d' % id
-    #return render_template("menuitems.html", menuitems=menuitems)
+        matching_menu_items.append({"name": item.menuitem.encode("ascii", 'ignore'), 
+                                    "description": item.description.encode("ascii", 'ignore'), 
+                                    "price": item.price.encode("ascii", 'ignore')})
+    return render_template("menuitems.html", menuitems = matching_menu_items, restaurant = restaurant)
 
 @app.route('/output')
 def cesareans_output():

@@ -6,12 +6,12 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="description" content="">
    <meta name="author" content="">
-   <link rel="icon" href="../../favicon.ico">
+   <link rel="icon" href="../../../favicon.ico">
 
    <title>Starter Template for Bootstrap</title>
 
    <!-- Bootstrap core CSS -->
-   <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+   <link href="../../static/css/bootstrap.min.css" rel="stylesheet">
 
    <!-- Custom styles for this template -->
    <!--<link href="starter-template.css" rel="stylesheet"> -->
@@ -60,14 +60,13 @@
 <!--
       <div class="starter-template">
     </div>-->
-          <table class="table table-hover">
+    <h3>{{restaurant.name}}</h3>
+    <table class="table table-hover">
       <tr><th>Item</th><th>Description</th></tr>
       {% for menuitem in menuitems %}
-      <tr><td>{{ menuitem["menuitem"] }}</td><td>{{ menuitem["description"] }}</td></tr>
+      <tr><td>{{ menuitem["name"] }}</td><td>{{ menuitem["description"] }}</td><td>{{ menuitem["price"] }}</td></tr>
       {% endfor %}
-            </table>
-
-
+    </table>
 
       <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
       <script src="static/js/bootstrap.min.js"></script>
