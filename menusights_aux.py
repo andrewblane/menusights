@@ -25,7 +25,7 @@ class Recipe(Base):
     
     def __repr__(self):
         return "<Recipe(name='%s', url='%s')>" % (
-            self.name, self.url)
+            self.name.encode('utf-8'), self.url.encode('utf-8'))
     
 class Ingredient(Base):
     __tablename__ = 'ingredients'
@@ -72,6 +72,49 @@ class MenuItem(Base):
     __table_args__ = {'extend_existing': True}
     def __repr__(self):
         return "<MenuItem(item='%s', desc='%s')>" % (
-            self.menuitem, self.description)
+            self.menuitem.encode('utf-8'), self.description.encode('utf-8'))
     
 Restaurant.menuitems = relationship("MenuItem", order_by=MenuItem.id, back_populates="restaurant")
+
+'''
+Next three blocks are functions to remove measurement words from ingredient lists.
+'''
+
+measurements = ("femtogram", "gigagram", "gram", "hectogram", "kilogram", \
+                "long", "ton", "mcg", "megagram", "metric", "ton", "metric"\
+                "tonne", "microgram", "milligram","nanogram", "ounce", \
+                "lb", "oz", "each", "pound", "short", "Gram", "Ounce", "Pint", "Quart",\
+                "Tablespoon", "Teaspoon", "Tablespoons", "Teaspoons", "Cups", "cup","Fluid Ounce", "fl oz", "Gallon", "Ounce", \
+                "Pint", "Quart", "Tablespoon", "Teaspoon", "liter", "litre", "L", "ml", "fluid ounces", "can", "cans")
+
+def find_measurement_words(i):
+    ingredient_line = i
+    for item in measurements:
+        meas = str(" " + item.lower() + " ")
+        a = re.search(meas, ingredient_line)
+        if a > 0:
+            unit = ingredient_line[a.start():a.end()].strip()
+            quantity = ingredient_line[:a.start()].strip()
+            ingredient = ingredient_line[a.end():].strip()
+            break
+        else:
+            ilist = i.split(" ")
+            quantity = ilist[0]
+            unit = "each"
+            ingredient = " ".join(ilist[1:])
+    newitem = {"ingredient": ingredient,
+    "unit": unit,
+    "quantity":  quantity}
+    try:
+        fracsplit = ([float(k) for k in newitem["quantity"].split("/")])
+        if len(fracsplit) >= 2:
+            newitem["quantity"] = fracsplit[0] / fracsplit[1]
+    except:
+        None
+    #print(newitem)
+    return newitem
+
+def clean_up_ingredient(ingredient_line):
+    ingredient_line = re.sub("\[u\'", "", ingredient_line)
+    ingredient_line = re.sub("\']", "", ingredient_line)
+    return find_measurement_words(ingredient_line)

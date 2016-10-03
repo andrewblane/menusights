@@ -1,4 +1,3 @@
-#from __future__ import unicode_literals
 # -*- coding: utf-8 -*-
 from flask import render_template, request
 from menuplusapp import app
@@ -8,15 +7,14 @@ from sqlalchemy.orm import sessionmaker
 import pandas as pd
 import psycopg2
 from a_Model import ModelIt
-from django.utils.encoding import smart_str, smart_unicode
 from collections import Counter
 from importlib import import_module
 from dbmodels import *
 import flask_whooshalchemy
 import json
-from django.utils.encoding import smart_str
+import commands
 
-user = 'andylane' #add your username here        
+user = 'andylane' # commands.getoutput('whoami') #'andylane' #add your username here        
 host = 'localhost'
 dbname = 'restaurants'
 engine = create_engine('postgres://%s@%s/%s'%(user,host,dbname))

@@ -62,7 +62,7 @@
     </div>-->
     <h3>{{restaurant.name}}</h3>
     <table class="table table-hover">
-      <tr><th>Item</th><th>Description</th></tr>
+      <tr><th>Item</th><th>Description</th><th>Price</th></tr>
       {% for menuitem in menuitems %}
       <tr><td>{{ menuitem["name"] }}</td><td>{{ menuitem["description"] }}</td><td>{{ menuitem["price"] }}</td></tr>
       {% endfor %}
