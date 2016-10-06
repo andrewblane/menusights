@@ -6,15 +6,16 @@ from sqlalchemy_utils import database_exists, create_database
 from sqlalchemy.orm import sessionmaker
 import pandas as pd
 import psycopg2
-from a_Model import ModelIt
+from model import *
 from collections import Counter
 from importlib import import_module
-from dbmodels import *
+from menusights_aux import *
 import flask_whooshalchemy
 import json
 import commands
+import os, pwd
 
-user = 'andylane' # commands.getoutput('whoami') #'andylane' #add your username here        
+user = pwd.getpwuid(os.getuid()).pw_name    
 host = 'localhost'
 dbname = 'restaurants'
 engine = create_engine('postgres://%s@%s/%s'%(user,host,dbname))
@@ -54,9 +55,11 @@ def show_menu_items(id):
     restaurant = list(session.query(Restaurant).filter(Restaurant.id == id).all())[0]
     matching_menu_items = []
     for item in menuitems:
-        matching_menu_items.append({"name": item.menuitem.encode("ascii", 'ignore'), 
+        name = item.menuitem.encode("ascii", 'ignore')
+        matching_menu_items.append({"name": name, 
                                     "description": item.description.encode("ascii", 'ignore'), 
-                                    "price": item.price.encode("ascii", 'ignore')})
+                                    "price": item.price.encode("ascii", 'ignore'),
+                                    "classification": report_score_and_why(name)})
     return render_template("menuitems.html", menuitems = matching_menu_items, restaurant = restaurant)
 
 @app.route('/output')

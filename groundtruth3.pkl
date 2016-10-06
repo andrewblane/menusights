@@ -1,0 +1,3427 @@
+(lp1
+(dp2
+S'nf_ingredient_statement'
+p3
+V
+sS'item_name'
+p4
+VKids Side Citrus-Chile Rice
+p5
+sS'brand_name'
+p6
+VChili's
+p7
+sS'nf_cholesterol'
+p8
+I0
+sS'nf_calories'
+p9
+I130
+sS'item_description'
+p10
+V
+sS'nf_sodium'
+p11
+I540
+sa(dp12
+g3
+V
+sg4
+VFresh Mex Pairing Rice & Black Beans
+p13
+sg6
+VChili's
+p14
+sg8
+I0
+sg9
+I250
+sg10
+V
+sg11
+I1260
+sa(dp15
+g3
+V
+sg4
+VSide Spiced Panko Onion Rings
+p16
+sg6
+VChili's
+p17
+sg8
+I0
+sg9
+I400
+sg10
+V
+sg11
+I740
+sa(dp18
+g3
+V
+sg4
+VMake it a Combo, Ancho Salmon
+p19
+sg6
+VChili's
+p20
+sg8
+I100
+sg9
+I420
+sg10
+V
+sg11
+I1110
+sa(dp21
+g3
+V
+sg4
+VMake it a Combo, Half Rack of Craft Beer BBQ Ribs
+p22
+sg6
+VChili's
+p23
+sg8
+I155
+sg9
+I470
+sg10
+V
+sg11
+I620
+sa(dp24
+g3
+V
+sg4
+VBone-In Wings, Smoked
+p25
+sg6
+VChili's
+p26
+sg8
+I290
+sg9
+I560
+sg10
+V
+sg11
+I2030
+sa(dp27
+g3
+V
+sg4
+VTriple Dipper Crispy Cheddar Bites
+p28
+sg6
+VChili's
+p29
+sg8
+I85
+sg9
+I580
+sg10
+V
+sg11
+I1440
+sa(dp30
+g3
+V
+sg4
+VArnold Palmer, Mango
+p31
+sg6
+VChili's
+p32
+sg8
+I0
+sg9
+I90
+sg10
+V
+sg11
+I25
+sa(dp33
+g3
+V
+sg4
+VFresco Salad
+p34
+sg6
+VChili's
+p35
+sg8
+I5
+sg9
+I140
+sg10
+V
+sg11
+I260
+sa(dp36
+g3
+V
+sg4
+VCrispy Cheddar Bites
+p37
+sg6
+VChili's
+p38
+sg8
+I155
+sg9
+I990
+sg10
+V
+sg11
+I2530
+sa(dp39
+g3
+V
+sg4
+VSpiced Panko Onion Rings
+p40
+sg6
+VChili's
+p41
+sg8
+I15
+sg9
+I960
+sg10
+V
+sg11
+I1780
+sa(dp42
+g3
+V
+sg4
+VFresh Mex Pairing Chicken Enchilada Soup, Cup
+p43
+sg6
+VChili's
+p44
+sg8
+I35
+sg9
+I220
+sg10
+V
+sg11
+I830
+sa(dp45
+g3
+V
+sg4
+VSkillet Toffee Fudge Brownie
+p46
+sg6
+VChili's
+p47
+sg8
+I145
+sg9
+I1260
+sg10
+V
+sg11
+I980
+sa(dp48
+g3
+V
+sg4
+VLunch Combo Top Shelf Ranchero Chicken Tacos
+p49
+sg6
+VChili's
+p50
+sg8
+I115
+sg9
+I550
+sg10
+V
+sg11
+I2040
+sa(dp51
+g3
+V
+sg4
+VBoneless Buffalo Chicken Salad
+p52
+sg6
+VChili's
+p53
+sg8
+I140
+sg9
+I1040
+sg10
+VSALADS - Boneless Buffalo Chicken Salad
+p54
+sg11
+I3510
+sa(dp55
+g3
+V
+sg4
+VCaribbean Salad with Seared Shrimp
+p56
+sg6
+VChili's
+p57
+sg8
+I135
+sg9
+I630
+sg10
+VSALADS - Caribbean Salad w/ Grilled Shrimp
+p58
+sg11
+I1140
+sa(dp59
+g3
+V
+sg4
+VSwiss Cheese
+p60
+sg6
+VChili's
+p61
+sg8
+I20
+sg9
+I80
+sg10
+VEXTRAS - Cheese, Swiss
+p62
+sg11
+I40
+sa(dp63
+g3
+V
+sg4
+VCitrus Balsamic Vinaigrette Dressing, Lunch Combo portion
+p64
+sg6
+VChili's
+p65
+sg8
+I0
+sg9
+I250
+sg10
+VEXTRAS - Dressing, Citrus Balsamic Vinaigrette
+p66
+sg11
+I240
+sa(dp67
+g3
+V
+sg4
+VSour Cream
+p68
+sg6
+VChili's
+p69
+sg8
+I20
+sg9
+I60
+sg10
+VEXTRAS - Sour Cream
+p70
+sg11
+I70
+sa(dp71
+g3
+V
+sg4
+VCalifornia Grilled Chicken Flatbread
+p72
+sg6
+VChili's
+p73
+sg8
+I220
+sg9
+I1460
+sg10
+VFLATBREADS - Full Size - California Grilled Chicken
+p74
+sg11
+I2650
+sa(dp75
+g3
+V
+sg4
+VMargherita Flatbread
+p76
+sg6
+VChili's
+p77
+sg8
+I165
+sg9
+I1410
+sg10
+VFLATBREADS - Full Size - Margherita
+p78
+sg11
+I2590
+sa(dp79
+g3
+V
+sg4
+VBlack Bean Patty
+p80
+sg6
+VChili's
+p81
+sg8
+I0
+sg9
+I190
+sg10
+VEXTRAS - Black Bean Burger Only
+p82
+sg11
+I540
+sa(dp83
+g3
+V
+sg4
+VThousand Island Dressing, Lunch Combo portion
+p84
+sg6
+VChili's
+p85
+sg8
+I20
+sg9
+I200
+sg10
+VEXTRAS - Dressing, Thousand Island
+p86
+sg11
+I390
+sa(dp87
+g3
+V
+sg4
+VTexas Cheese Fries, Full Order
+p88
+sg6
+VChili's
+p89
+sg8
+I255
+sg9
+I1710
+sg10
+VAPPETIZERS - Texas Cheese Fries - Full Order
+p90
+sg11
+I4810
+sa(dp91
+g3
+V
+sg4
+VLemonade
+p92
+sg6
+VChili's
+p93
+sg8
+I0
+sg9
+I120
+sg10
+VBEVERAGES - Minute Maid Lemonade
+p94
+sg11
+I40
+sa(dp95
+g3
+V
+sg4
+VFresh Mex Pairing Chicken Taco
+p96
+sg6
+VChili's
+p97
+sg8
+I60
+sg9
+I260
+sg10
+VFRESH MEX - Tacos - Chicken Soft Taco (1 each)
+p98
+sg11
+I1440
+sa(dp99
+g3
+V
+sg4
+VKids Side Corn on the Cob
+p100
+sg6
+VChili's
+p101
+sg8
+I0
+sg9
+I170
+sg10
+VKIDS - Side Corn on the Cob
+p102
+sg11
+I0
+sa(dp103
+g3
+V
+sg4
+VKids Side Homestyle Fries
+p104
+sg6
+VChili's
+p105
+sg8
+I0
+sg9
+I190
+sg10
+VKIDS - Side Homestyle Fries
+p106
+sg11
+I710
+sa(dp107
+g3
+V
+sg4
+VOriginal BBQ Sauce
+p108
+sg6
+VChili's
+p109
+sg8
+I0
+sg9
+I70
+sg10
+VEXTRAS - Original BBQ Sauce
+p110
+sg11
+I590
+sa(dp111
+g3
+V
+sg4
+VKids Corn Dog
+p112
+sg6
+VChili's
+p113
+sg8
+I20
+sg9
+I230
+sg10
+VKIDS - Corn Dog
+p114
+sg11
+I400
+sa(dp115
+g3
+V
+sg4
+VKids Pepperoni Pizza
+p116
+sg6
+VChili's
+p117
+sg8
+I65
+sg9
+I700
+sg10
+VKIDS - Pizza - Pepperoni - 6 "
+p118
+sg11
+I1250
+sa(dp119
+g3
+V
+sg4
+VDiet Coke
+p120
+sg6
+VChili's
+p121
+sg8
+I0
+sg9
+I0
+sg10
+VBEVERAGES - Soda - Diet Coke
+p122
+sg11
+I40
+sa(dp123
+g3
+V
+sg4
+VDr. Pepper BBQ Ribs, Half Rack
+p124
+sg6
+VChili's
+p125
+sg8
+I155
+sg9
+I460
+sg10
+VBABY BACK RIBS - Original Ribs - Half Rack
+p126
+sg11
+I520
+sa(dp127
+g3
+V
+sg4
+VIced Tea, Mango
+p128
+sg6
+VChili's
+p129
+sg8
+I0
+sg9
+I80
+sg10
+VBEVERAGES - Iced Tea - Mango
+p130
+sg11
+I10
+sa(dp131
+g3
+V
+sg4
+VLunch Combo Smoked Chicken Quesadilla
+p132
+sg6
+VChili's
+p133
+sg8
+I130
+sg9
+I970
+sg10
+VLUNCH COMBOS (listed without soup or salad) - Southwestern BLT Toasted Sandwich
+p134
+sg11
+I1680
+sa(dp135
+g3
+V
+sg4
+VLunch Combo Chipotle Chicken Bowl with Rice
+p136
+sg6
+VChili's
+p137
+sg8
+I110
+sg9
+I760
+sg10
+VLUNCH COMBOS (listed without soup or salad) - Fresh Mex Chipotle Chicken Bowl
+p138
+sg11
+I2210
+sa(dp139
+g3
+V
+sg4
+VKids Side Salad without Dressing
+p140
+sg6
+VChili's
+p141
+sg8
+I5
+sg9
+I60
+sg10
+VKIDS - Side Salad w/ Low-Fat Ranch
+p142
+sg11
+I125
+sa(dp143
+g3
+V
+sg4
+VTriple Dipper Big Mouth Bites
+p144
+sg6
+VChili's
+p145
+sg8
+I110
+sg9
+I800
+sg10
+VTRIPLE DIPPER - TD? Big Mouth&reg; Bites
+p146
+sg11
+I1730
+sa(dp147
+g3
+V
+sg4
+VBeef Enchiladas
+p148
+sg6
+VChili's
+p149
+sg8
+I115
+sg9
+I910
+sg10
+VFRESH MEX - Enchiladas - Beef Enchilada Platter
+p150
+sg11
+I2400
+sa(dp151
+g3
+V
+sg4
+VChicken Enchiladas with Sour Cream Sauce
+p152
+sg6
+VChili's
+p153
+sg8
+I205
+sg9
+I900
+sg10
+VFRESH MEX - Enchiladas - Sour Cream Chicken Enchilada Platter
+p154
+sg11
+I2970
+sa(dp155
+g3
+V
+sg4
+VKids Cheese Quesadilla
+p156
+sg6
+VChili's
+p157
+sg8
+I50
+sg9
+I450
+sg10
+VKIDS - Cheese Quesadilla
+p158
+sg11
+I710
+sa(dp159
+g3
+V
+sg4
+VKids Crispy Chicken Crispers
+p160
+sg6
+VChili's
+p161
+sg8
+I65
+sg9
+I340
+sg10
+VKIDS - Crispy Chicken Crispers
+p162
+sg11
+I1080
+sa(dp163
+g3
+V
+sg4
+VKids Side Steamed Broccoli
+p164
+sg6
+VChili's
+p165
+sg8
+I0
+sg9
+I40
+sg10
+VKIDS - Side Steamed Broccoli - plain
+p166
+sg11
+I45
+sa(dp167
+g3
+V
+sg4
+VFajita Flour Tortillas
+p168
+sg6
+VChili's
+p169
+sg8
+I0
+sg9
+I260
+sg10
+VMIX & MATCH FAJITAS - Choice of Tortillas & Toppings - Flour Tortillas (3 each)
+p170
+sg11
+I640
+sa(dp171
+g3
+V
+sg4
+VLunch Combo Bacon Avocado Chicken Sandwich
+p172
+sg6
+VChili's
+p173
+sg8
+I85
+sg9
+I580
+sg10
+VLUNCH COMBOS (listed without soup or salad) - Bacon Avocado Chicken Sandwich Combo
+p174
+sg11
+I1240
+sa(dp175
+g3
+V
+sg4
+VFajita Toppings
+p176
+sg6
+VChili's
+p177
+sg8
+I70
+sg9
+I340
+sg10
+VMIX & MATCH FAJITAS - Choice of Tortillas & Toppings - Fajita Toppings
+p178
+sg11
+I1020
+sa(dp179
+g3
+V
+sg4
+VFresh Mex Pairing Enchilada Chicken Sour Cream
+p180
+sg6
+VChili's
+p181
+sg8
+I70
+sg9
+I300
+sg10
+VFRESH MEX - Enchiladas - Sour Cream Chicken Enchilada (1 each)
+p182
+sg11
+I980
+sa(dp183
+g3
+V
+sg4
+VKids 2% Chocolate Milk
+p184
+sg6
+VChili's
+p185
+sg8
+I30
+sg9
+I290
+sg10
+VBEVERAGES - Kids - Chocolate Milk
+p186
+sg11
+I250
+sa(dp187
+g3
+V
+sg4
+VKids Dr. Pepper
+p188
+sg6
+VChili's
+p189
+sg8
+I0
+sg9
+I80
+sg10
+V
+sg11
+I25
+sa(dp190
+g3
+V
+sg4
+VUltimate Fresh Margarita
+p191
+sg6
+VChili's
+p192
+sg8
+I0
+sg9
+I270
+sg10
+V
+sg11
+I1160
+sa(dp193
+g3
+VTomatoes, Imported an Marzano Tomatoes, Extra Virgin Olive Oil, Garlic, Salt, Basil, Crushed Red Pepper, White Pepper, Black Pepper. Gluten free.
+p194
+sg4
+VPasta Sauce, Spicy Marinara
+p195
+sg6
+VMonte Bene
+p196
+sg8
+I0
+sg9
+I40
+sg10
+VSpicy Marinara
+p197
+sg11
+I240
+sa(dp198
+g3
+Nsg4
+VVodka Pasta Sauce
+p199
+sg6
+VMonte Bene
+p200
+sg8
+I10
+sg9
+I50
+sg10
+Nsg11
+I240
+sa(dp201
+g3
+VTomatoes, Imported Italian San Marzano Tomatoes, Extra Virgin Olive Oil, Garlic, Salt, Basil, White Pepper, Black Pepper. Gluten free.
+p202
+sg4
+VPasta Sauce, Garlic Marinara
+p203
+sg6
+VMonte Bene
+p204
+sg8
+I0
+sg9
+I40
+sg10
+VGarlic Marinara
+p205
+sg11
+I240
+sa(dp206
+g3
+Vtomatoes, imported italian san marzano tomatoes, onions, extra virgin olive oil, basil, white pepper, black pepper.
+p207
+sg4
+VPasta Sauce, Tomato Basil
+p208
+sg6
+VMonte Bene
+p209
+sg8
+I0
+sg9
+I45
+sg10
+Nsg11
+I190
+sa(dp210
+g3
+VTomatoes, Imported Italian San Marzano Tomatoes, Onions, Extra Virgin Olive Oil, Salt, Basil, White Pepper, Black Pepper.
+p211
+sg4
+VTomato Basil Pasta Sauce
+p212
+sg6
+VMonte Bene
+p213
+sg8
+I0
+sg9
+I40
+sg10
+Nsg11
+I240
+sa(dp214
+g3
+VTomatoes, Imported Italian San Marzano Tomatoes, Extra Virgin Olive Oil, Garlic, Salt, Basil, White Pepper, Black Pepper.
+p215
+sg4
+VGarlic Marinara Pasta Sauce
+p216
+sg6
+VMonte Bene
+p217
+sg8
+I0
+sg9
+I40
+sg10
+Nsg11
+I240
+sa(dp218
+g3
+VTomatoes, Imported Italian San Marzano Tomatoes, Onions, Extra Virgin Olive Oil, Salt, Basil, White Pepper, Black Pepper. Gluten free.
+p219
+sg4
+VPasta Sauce, Tomato Basil
+p220
+sg6
+VMonte Bene
+p221
+sg8
+I0
+sg9
+I40
+sg10
+VTomato Basil
+p222
+sg11
+I240
+sa(dp223
+g3
+VTomatoes, Imported Italian San Marzano Tomatoes, Pasteurized Heavy Cream, Onions, Pecorino Romano Cheese, (Pasteurized Sheep's Milk, Culture, Salt, Enzymes, Corn Starch, Cellulose), Extra Virgin Olive Oil, Vodka, Salt, Basil, White Pepper, Black Pepper, Citric Acid. Gluten free.
+p224
+sg4
+VPasta Sauce, Low Fat, Vodka
+p225
+sg6
+VMonte Bene
+p226
+sg8
+I10
+sg9
+I50
+sg10
+VLow Fat, Vodka
+p227
+sg11
+I240
+sa(dp228
+g3
+Vnew jersey vine-ripened tomatoes, imported italian san marzano plum tomatoes, extra virgin olive oil, fresh garlic, kosher salt, fresh basil, crushed red pepper, black and white pepper.
+p229
+sg4
+VSpicy Marinara Pasta Sauce
+p230
+sg6
+VMonte Bene Farm Fresh
+p231
+sg8
+I0
+sg9
+I40
+sg10
+Nsg11
+I240
+sa(dp232
+g3
+Nsg4
+VPasta
+p233
+sg6
+VSidari's Italian Foods
+p234
+sg8
+I27
+sg9
+I210
+sg10
+Nsg11
+I20
+sa(dp235
+g3
+V
+sg4
+VPasta
+p236
+sg6
+VSalata
+p237
+sg8
+I0
+sg9
+I80
+sg10
+V
+sg11
+I180
+sa(dp238
+g3
+Nsg4
+VPasta
+p239
+sg6
+VRonzoni
+p240
+sg8
+I0
+sg9
+I150
+sg10
+Nsg11
+I50
+sa(dp241
+g3
+Nsg4
+VPasta
+p242
+sg6
+VMario Batali
+p243
+sg8
+I0
+sg9
+I200
+sg10
+Nsg11
+I0
+sa(dp244
+g3
+Nsg4
+VPasta
+p245
+sg6
+VBlue Menu
+p246
+sg8
+I0
+sg9
+I290
+sg10
+Nsg11
+I0
+sa(dp247
+g3
+Nsg4
+VPasta
+p248
+sg6
+VNestle Buitoni
+p249
+sg8
+I65
+sg9
+I280
+sg10
+Nsg11
+I650
+sa(dp250
+g3
+Nsg4
+VPasta
+p251
+sg6
+VSailing Boat Brand
+p252
+sg8
+I0
+sg9
+I400
+sg10
+Nsg11
+I3
+sa(dp253
+g3
+Nsg4
+VPasta
+p254
+sg6
+VNuovo
+p255
+sg8
+I40
+sg9
+I190
+sg10
+Nsg11
+I530
+sa(dp256
+g3
+Nsg4
+VPasta
+p257
+sg6
+VOlivieri
+p258
+sg8
+I30
+sg9
+I290
+sg10
+Nsg11
+I280
+sa(dp259
+g3
+Nsg4
+VPasta
+p260
+sg6
+VMario Batali
+p261
+sg8
+I0
+sg9
+I200
+sg10
+Nsg11
+I0
+sa(dp262
+g3
+V
+sg4
+VPasta
+p263
+sg6
+VMr Pickle's Sandwiches
+p264
+sg8
+Nsg9
+I210
+sg10
+VSalads (optional) - Pasta
+p265
+sg11
+I950
+sa(dp266
+g3
+Nsg4
+VPasta
+p267
+sg6
+VGaro Salo
+p268
+sg8
+I0
+sg9
+I210
+sg10
+Nsg11
+I0
+sa(dp269
+g3
+V
+sg4
+VPasta
+p270
+sg6
+VBd's Mongolian Grill
+p271
+sg8
+I0
+sg9
+I210
+sg10
+VNOODLES - Pasta
+p272
+sg11
+I0
+sa(dp273
+g3
+Nsg4
+VPowder
+p274
+sg6
+VBenefiber
+p275
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp276
+g3
+V
+sg4
+VWaffle Benedict
+p277
+sg6
+VEggspectation
+p278
+sg8
+I800
+sg9
+I1230
+sg10
+VSignature Eggsbenedict - Waffle Benedict
+p279
+sg11
+I1230
+sa(dp280
+g3
+Nsg4
+VPenne Rigate
+p281
+sg6
+VBenedetto Cavalieri
+p282
+sg8
+Nsg9
+I210
+sg10
+Nsg11
+I0
+sa(dp283
+g3
+Nsg4
+VBlueberry, Bar
+p284
+sg6
+VBeneFIT Bars
+p285
+sg8
+I0
+sg9
+I150
+sg10
+Nsg11
+I85
+sa(dp286
+g3
+Nsg4
+VGreen Tea
+p287
+sg6
+VSan Benedetto
+p288
+sg8
+Nsg9
+I60
+sg10
+Nsg11
+I0
+sa(dp289
+g3
+VCream Cheese (Pasteurized Milk and Cream, Cheese Cultures, Salt, Carob Bean Gum), Mayonnaise (Soybean Oil, Water, Eggs, Vinegar, Contains Less than 2% of Egg Yolks, Lemon Juice Concentrate, Salt, Sugar, Dried Onions, Dried Garlic Paprika, Natural Flavor, Calcium Disodium EDTA [to Protect Flavor]), Cucumber Juice Vinegar, Salt, Onion Juice, Salt, Sorbic Acid (to Protect Flavor), Guar Gum, Yellow 5, Blue 1.
+p290
+sg4
+VBenedictine Spread
+p291
+sg6
+VJudy Ann
+p292
+sg8
+I25
+sg9
+I110
+sg10
+Nsg11
+I220
+sa(dp293
+g3
+VCream Cheese (Pasteurized Milk and Cream, Cheese Cultures, Salt, Carob Bean Gum), Mayonnaise (Soybean Oil, Water, Eggs, Vinegar, Contains Less than 2% of Egg Yolks, Lemon Juice Concentrate, Salt, Sugar, Dried Onions, Dried Garlic, Paprika, Natural Flavor, Calcium Disodium EDTA [to Protect Flavor]), Cucumber Juice (Cucumber, Vinegar, Salt), Onion Juice, Water, Salt, Guar Gum, Sorbic Acid, to Protect Flavor, Yellow 5, Blue 1.
+p294
+sg4
+VBenedictine Spread
+p295
+sg6
+VJudy Ann
+p296
+sg8
+I25
+sg9
+I110
+sg10
+Nsg11
+I220
+sa(dp297
+g3
+VWheat Dextrin. Gluten Free (Less Than 20 Ppm Gluten).
+p298
+sg4
+VFiber Supplement, Powder
+p299
+sg6
+VBenefiber
+p300
+sg8
+Nsg9
+I15
+sg10
+VPowder
+p301
+sg11
+I0
+sa(dp302
+g3
+Nsg4
+VFiber Supplement
+p303
+sg6
+VBenefiber
+p304
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp305
+g3
+Nsg4
+VFiber Supplement
+p306
+sg6
+VBenefiber
+p307
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp308
+g3
+VWheat Dextrin
+p309
+sg4
+VPowder, Sugar Free
+p310
+sg6
+VBenefiber
+p311
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp312
+g3
+VBroccoli
+p313
+sg4
+VBroccoli, Beneforte
+p314
+sg6
+VEat Smart
+p315
+sg8
+I0
+sg9
+I25
+sg10
+VBeneforte
+p316
+sg11
+I25
+sa(dp317
+g3
+V
+sg4
+VEggs Benedict
+p318
+sg6
+VJimmy's Egg
+p319
+sg8
+I460
+sg9
+I780
+sg10
+VBreakfast Specialties - Eggs Benedict
+p320
+sg11
+I1480
+sa(dp321
+g3
+VRapeseed Oil, Tomato Puree, Spirit Vinegar, Water, Salt, Egg Yolk, Red Wine, Sugar, Modified Food Starch, Natural Flavor.
+p322
+sg4
+VBurgundy Sauce, Gourmet
+p323
+sg6
+VBenedicta
+p324
+sg8
+I9
+sg9
+I120
+sg10
+VGourmet
+p325
+sg11
+I354
+sa(dp326
+g3
+VRapeseed Oil, Water, Spirit Vinegar, Egg Yolk, Salt, Tarragon, Shallots, Chervil, Lemon Juice, Hot Pepper, Sugar, Natural Flavor, Modified Food Starch, Food Color: Beta-Carotene.
+p327
+sg4
+VBearnaise Sauce, Gourmet
+p328
+sg6
+VBenedicta
+p329
+sg8
+I12
+sg9
+I150
+sg10
+VGourmet
+p330
+sg11
+I300
+sa(dp331
+g3
+Nsg4
+VLight Spread
+p332
+sg6
+VBenecol
+p333
+sg8
+Nsg9
+F38.219999999999999
+sg10
+Nsg11
+I100
+sa(dp334
+g3
+V
+sg4
+VHarvest Benedict
+p335
+sg6
+VLe Peep
+p336
+sg8
+I505
+sg9
+I820
+sg10
+VBENEDICTS - Harvest Benedict
+p337
+sg11
+I1590
+sa(dp338
+g3
+V
+sg4
+VEggs Benedict
+p339
+sg6
+VEarls
+p340
+sg8
+I1040
+sg9
+I1740
+sg10
+VBRUNCH - Eggs Benny
+p341
+sg11
+I3380
+sa(dp342
+g3
+Nsg4
+VFiber Supplement
+p343
+sg6
+VBenefiber
+p344
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp345
+g3
+Vwheat dextrin
+p346
+sg4
+VFiber Supplement, Powder
+p347
+sg6
+VBenefiber
+p348
+sg8
+Nsg9
+I15
+sg10
+Nsg11
+I0
+sa(dp349
+g3
+Nsg4
+VOrganic Fusilli
+p350
+sg6
+VBenedetto Cavalieri
+p351
+sg8
+I0
+sg9
+I190
+sg10
+Nsg11
+I0
+sa(dp352
+g3
+V
+sg4
+VEggs Benedict
+p353
+sg6
+VCoco's Bakery
+p354
+sg8
+I445
+sg9
+I460
+sg10
+VBreakfast Menu - Daybreak Traditionals - Eggs Benedict
+p355
+sg11
+I1550
+sa(dp356
+g3
+V
+sg4
+VClassic Benedict
+p357
+sg6
+VEggspectation
+p358
+sg8
+I785
+sg9
+I1130
+sg10
+VSignature Eggsbenedict - Classic Benedict
+p359
+sg11
+I1200
+sa(dp360
+g3
+V
+sg4
+VSmoked Salmon Benedict
+p361
+sg6
+VEggspectation
+p362
+sg8
+I785
+sg9
+I1140
+sg10
+VSignature Eggsbenedict - Smoked Salmon Benedict
+p363
+sg11
+I1240
+sa(dp364
+g3
+V
+sg4
+VBagel Benedict
+p365
+sg6
+VEggspectation
+p366
+sg8
+I785
+sg9
+I1240
+sg10
+VSignature Eggsbenedict - Bagel Benedict
+p367
+sg11
+I1500
+sa(dp368
+g3
+V
+sg4
+VChicken Benedict
+p369
+sg6
+VEggspectation
+p370
+sg8
+I865
+sg9
+I1350
+sg10
+VSignature Eggsbenedict - Chicken Benedict
+p371
+sg11
+I1600
+sa(dp372
+g3
+VWater, Soybean Oil, Vinegar, Plant Stanol Esters, Sugar, Contains Less than 2% Salt, Lemon Juice Concentrate, Garlic Powder, Onion (Dried), Red Bell Peppers (Dried), Polyglycerol Esters of Fatty Acids, Cultured Buttermilk Solids, Polysorbate 60, Polysorbate 80, Egg Yolk, Xanthan Gum, Artificial Color, Propylene Glycol, Alginate, Spice, Parsley (Dried), DI-A-Tocopherol, Potassium Sorbate and Calcium Disodium EDTA as Preservatives.
+p373
+sg4
+VDressing, Creamy Italian
+p374
+sg6
+VBenecol
+p375
+sg8
+I0
+sg9
+I100
+sg10
+VCreamy Italian
+p376
+sg11
+I170
+sa(dp377
+g3
+Nsg4
+VSmart Chews, Caramel
+p378
+sg6
+VBenecol
+p379
+sg8
+Nsg9
+I35
+sg10
+Nsg11
+I25
+sa(dp380
+g3
+Nsg4
+VBlack Bear Diner, Habañero
+p381
+sg6
+VPapa Burn
+p382
+sg8
+I0
+sg9
+I10
+sg10
+Nsg11
+I350
+sa(dp383
+g3
+Nsg4
+VSteak Sauce, Black Bear Diner
+p384
+sg6
+VShasta
+p385
+sg8
+I0
+sg9
+I76
+sg10
+Nsg11
+I344
+sa(dp386
+g3
+V
+sg4
+VSundaes
+p387
+sg6
+VBlack Bear Diner
+p388
+sg8
+Nsg9
+I880
+sg10
+VDESSERT - Breakfast - Sundaes
+p389
+sg11
+I340
+sa(dp390
+g3
+V
+sg4
+VLemonade
+p391
+sg6
+VBlack Bear Diner
+p392
+sg8
+Nsg9
+I280
+sg10
+VBREAKFAST - Beverages - Lemonade
+p393
+sg11
+I100
+sa(dp394
+g3
+V
+sg4
+VVolcano
+p395
+sg6
+VBlack Bear Diner
+p396
+sg8
+Nsg9
+I1650
+sg10
+VBREAKFAST - The Volcano - Volcano
+p397
+sg11
+I3230
+sa(dp398
+g3
+V
+sg4
+VFruit-Filled Bear Claw
+p399
+sg6
+VBlack Bear Diner
+p400
+sg8
+Nsg9
+I1200
+sg10
+V
+sg11
+I880
+sa(dp401
+g3
+V
+sg4
+VClassic Bear Claw
+p402
+sg6
+VBlack Bear Diner
+p403
+sg8
+Nsg9
+I1200
+sg10
+V
+sg11
+I880
+sa(dp404
+g3
+V
+sg4
+VBlackbeary Cobbler
+p405
+sg6
+VBlack Bear Diner
+p406
+sg8
+Nsg9
+I420
+sg10
+VDESSERT - Breakfast - Blackbeary Cobbler
+p407
+sg11
+I850
+sa(dp408
+g3
+V
+sg4
+VFish & Chips
+p409
+sg6
+VBlack Bear Diner
+p410
+sg8
+Nsg9
+I1840
+sg10
+VDINNER - Dinner Deals - Fish & Chips
+p411
+sg11
+I3590
+sa(dp412
+g3
+V
+sg4
+VBaked Potato
+p413
+sg6
+VBlack Bear Diner
+p414
+sg8
+Nsg9
+I280
+sg10
+VDINNER - Extra/Sides - Baked Potato
+p415
+sg11
+I0
+sa(dp416
+g3
+V
+sg4
+VFarmer's Scramble
+p417
+sg6
+VBlack Bear Diner
+p418
+sg8
+Nsg9
+I340
+sg10
+VBREAKFAST - Fit & Focused: Specially Prepared with Egg Whites - Farmer's Scramble
+p419
+sg11
+I490
+sa(dp420
+g3
+V
+sg4
+VAssorted Juices
+p421
+sg6
+VBlack Bear Diner
+p422
+sg8
+Nsg9
+I270
+sg10
+V
+sg11
+I50
+sa(dp423
+g3
+V
+sg4
+VPancakes & Eggs
+p424
+sg6
+VBlack Bear Diner
+p425
+sg8
+Nsg9
+I640
+sg10
+VBREAKFAST - Bear's Choice - Pancake and eggs
+p426
+sg11
+I1020
+sa(dp427
+g3
+V
+sg4
+VAdd Cheese
+p428
+sg6
+VBlack Bear Diner
+p429
+sg8
+Nsg9
+I60
+sg10
+VLUNCH - Big Bear Burgers - Add Cheese
+p430
+sg11
+I270
+sa(dp431
+g3
+V
+sg4
+VMini Volcano
+p432
+sg6
+VBlack Bear Diner
+p433
+sg8
+Nsg9
+I1100
+sg10
+VBREAKFAST - A Little Less Breakfast - Small Volcano
+p434
+sg11
+I1930
+sa(dp435
+g3
+V
+sg4
+VArnold Palmer
+p436
+sg6
+VBlack Bear Diner
+p437
+sg8
+Nsg9
+I280
+sg10
+VBREAKFAST - Beverages - Arnold Palmer
+p438
+sg11
+I50
+sa(dp439
+g3
+V
+sg4
+VHam Steak
+p440
+sg6
+VBlack Bear Diner
+p441
+sg8
+Nsg9
+I150
+sg10
+VBreakfast Extras - Ham Steak
+p442
+sg11
+I1620
+sa(dp443
+g3
+V
+sg4
+VAdd Butter
+p444
+sg6
+VBlack Bear Diner
+p445
+sg8
+Nsg9
+I200
+sg10
+VDINNER - Extra/Sides - Add butter
+p446
+sg11
+I180
+sa(dp447
+g3
+V
+sg4
+VOnion Rings
+p448
+sg6
+VBlack Bear Diner
+p449
+sg8
+Nsg9
+I2100
+sg10
+VDINNER - Extra/Sides - Onion Rings (lncl.3 oz. of Bac. Ranch)
+p450
+sg11
+I2540
+sa(dp451
+g3
+V
+sg4
+VAcapulco Scramble
+p452
+sg6
+VBlack Bear Diner
+p453
+sg8
+Nsg9
+I490
+sg10
+VBREAKFAST - Fit & Focused: Specially Prepared with Egg Whites - Acapulco Scramble
+p454
+sg11
+I1250
+sa(dp455
+g3
+V
+sg4
+VCubs Pizza
+p456
+sg6
+VBlack Bear Diner
+p457
+sg8
+Nsg9
+I550
+sg10
+VCUB'S MENU - LUNCH & DINNER - Pizza
+p458
+sg11
+I960
+sa(dp459
+g3
+V
+sg4
+VChili, Cup
+p460
+sg6
+VBlack Bear Diner
+p461
+sg8
+Nsg9
+I840
+sg10
+VLUNCH - Soup And Chili - Cup Chili
+p462
+sg11
+I980
+sa(dp463
+g3
+V
+sg4
+VHot Chocolate
+p464
+sg6
+VBlack Bear Diner
+p465
+sg8
+Nsg9
+I120
+sg10
+VBREAKFAST - Beverages - Hot Chocolate
+p466
+sg11
+I150
+sa(dp467
+g3
+V
+sg4
+VSpecialty Meat
+p468
+sg6
+VBlack Bear Diner
+p469
+sg8
+Nsg9
+I500
+sg10
+VBreakfast Extras - Patty Sausage
+p470
+sg11
+I1420
+sa(dp471
+g3
+V
+sg4
+VChili, Bowl
+p472
+sg6
+VBlack Bear Diner
+p473
+sg8
+Nsg9
+I980
+sg10
+VLUNCH - Soup And Chili - Bowl Chili
+p474
+sg11
+I1310
+sa(dp475
+g3
+V
+sg4
+VDinner Salad
+p476
+sg6
+VBlack Bear Diner
+p477
+sg8
+Nsg9
+I50
+sg10
+VDINNER - Extra/Sides - Dinner Salad
+p478
+sg11
+I70
+sa(dp479
+g3
+V
+sg4
+VSugar Bear's Lava Cake
+p480
+sg6
+VBlack Bear Diner
+p481
+sg8
+Nsg9
+I890
+sg10
+VDESSERT - Breakfast - Mt. Shasta Lava Cake
+p482
+sg11
+I910
+sa(dp483
+g3
+V
+sg4
+VIced Tea
+p484
+sg6
+VBlack Bear Diner
+p485
+sg8
+Nsg9
+I0
+sg10
+VBREAKFAST - Beverages - Iced Tea
+p486
+sg11
+I20
+sa(dp487
+g3
+V
+sg4
+VBiscuits & Gravy
+p488
+sg6
+VBlack Bear Diner
+p489
+sg8
+Nsg9
+I1220
+sg10
+VBreakfast Extras - Biscuit and Gravy
+p490
+sg11
+I3700
+sa(dp491
+g3
+V
+sg4
+VFrench Fries
+p492
+sg6
+VBlack Bear Diner
+p493
+sg8
+Nsg9
+I720
+sg10
+VDINNER - Extra/Sides - Side of Fries
+p494
+sg11
+I1800
+sa(dp495
+g3
+V
+sg4
+VThe Grizz
+p496
+sg6
+VBlack Bear Diner
+p497
+sg8
+Nsg9
+I1570
+sg10
+VBREAKFAST - Hungry Bear's Breakfast - The Grizz w/HB
+p498
+sg11
+I7230
+sa(dp499
+g3
+V
+sg4
+VBurger Basket
+p500
+sg6
+VBlack Bear Diner
+p501
+sg8
+Nsg9
+I1380
+sg10
+VLUNCH - Old-Fashioned Burger Basket Combo - Burger Basket
+p502
+sg11
+I2510
+sa(dp503
+g3
+V
+sg4
+VCubs Spaghetti
+p504
+sg6
+VBlack Bear Diner
+p505
+sg8
+Nsg9
+I650
+sg10
+V
+sg11
+I860
+sa(dp506
+g3
+V
+sg4
+VSpaghetti & Meatballs
+p507
+sg6
+VBlack Bear Diner
+p508
+sg8
+Nsg9
+I1560
+sg10
+V
+sg11
+I2330
+sa(dp509
+g3
+V
+sg4
+VCaesar Salad
+p510
+sg6
+VBlack Bear Diner
+p511
+sg8
+Nsg9
+I1090
+sg10
+V
+sg11
+I2550
+sa(dp512
+g3
+V
+sg4
+VAdd Bacon
+p513
+sg6
+VBlack Bear Diner
+p514
+sg8
+Nsg9
+I320
+sg10
+V
+sg11
+I770
+sa(dp515
+g3
+V
+sg4
+VChicken Parmesan
+p516
+sg6
+VBlack Bear Diner
+p517
+sg8
+Nsg9
+I1530
+sg10
+V
+sg11
+I2370
+sa(dp518
+g3
+V
+sg4
+VCheeseburger Salad
+p519
+sg6
+VBlack Bear Diner
+p520
+sg8
+Nsg9
+I840
+sg10
+V
+sg11
+I1710
+sa(dp521
+g3
+V
+sg4
+VWaffle & Eggs
+p522
+sg6
+VBlack Bear Diner
+p523
+sg8
+Nsg9
+I1090
+sg10
+VBREAKFAST - Bear's Choice - Waffle and Eggs
+p524
+sg11
+I3990
+sa(dp525
+g3
+V
+sg4
+VCubs Scrambler
+p526
+sg6
+VBlack Bear Diner
+p527
+sg8
+Nsg9
+I340
+sg10
+VCUB'S MENU - Breakfast - Scrambler
+p528
+sg11
+I730
+sa(dp529
+g3
+V
+sg4
+VFruit Bowl
+p530
+sg6
+VBlack Bear Diner
+p531
+sg8
+Nsg9
+I220
+sg10
+VBreakfast Extras - Fruit Bowl
+p532
+sg11
+I50
+sa(dp533
+g3
+V
+sg4
+VBlazin Bear Sandwich with Soup
+p534
+sg6
+VBlack Bear Diner
+p535
+sg8
+Nsg9
+I1280
+sg10
+V
+sg11
+I3640
+sa(dp536
+g3
+V
+sg4
+VBlazin Bear Sandwich with Fries
+p537
+sg6
+VBlack Bear Diner
+p538
+sg8
+Nsg9
+I1700
+sg10
+V
+sg11
+I4020
+sa(dp539
+g3
+V
+sg4
+VBob's Big Bear Burger with Cole Slaw
+p540
+sg6
+VBlack Bear Diner
+p541
+sg8
+Nsg9
+I1590
+sg10
+VLUNCH - Big Bear Burgers - Bob's Big Bear/cole slaw
+p542
+sg11
+I1710
+sa(dp543
+g3
+V
+sg4
+VBob's Big Bear Burger with Fries
+p544
+sg6
+VBlack Bear Diner
+p545
+sg8
+Nsg9
+I1950
+sg10
+VLUNCH - Big Bear Burgers - Bob's Big Bear/fries
+p546
+sg11
+I3300
+sa(dp547
+g3
+V
+sg4
+VBlazin Bear Sandwich with Cole Slaw
+p548
+sg6
+VBlack Bear Diner
+p549
+sg8
+Nsg9
+I1270
+sg10
+V
+sg11
+I1820
+sa(dp550
+g3
+V
+sg4
+VBob's Big Bear Burger with Potato Salad
+p551
+sg6
+VBlack Bear Diner
+p552
+sg8
+Nsg9
+I1440
+sg10
+VLUNCH - Big Bear Burgers - Bob's Big Bear/potato sal.
+p553
+sg11
+I1670
+sa(dp554
+g3
+V
+sg4
+VLittle Less Bear Paw Chicken Fried Steak
+p555
+sg6
+VBlack Bear Diner
+p556
+sg8
+Nsg9
+I1370
+sg10
+VDINNER - Black Bear's Famous Chicken-Fried Steak - Bear Paw CFS w/mashed
+p557
+sg11
+I2860
+sa(dp558
+g3
+V
+sg4
+VBob's Big Bear Burger with Soup
+p559
+sg6
+VBlack Bear Diner
+p560
+sg8
+Nsg9
+I1480
+sg10
+VLUNCH - Big Bear Burgers - Bob's Big Bear/soup
+p561
+sg11
+I2420
+sa(dp562
+g3
+V
+sg4
+VBlazin Bear Sandwich with Potato Salad
+p563
+sg6
+VBlack Bear Diner
+p564
+sg8
+Nsg9
+I1220
+sg10
+V
+sg11
+I1760
+sa(dp565
+g3
+V
+sg4
+VYogurt
+p566
+sg6
+VDenny's
+p567
+sg8
+I5
+sg9
+I160
+sg10
+V
+sg11
+I100
+sa(dp568
+g3
+V
+sg4
+VEggs
+p569
+sg6
+VDenny's
+p570
+sg8
+I225
+sg9
+I130
+sg10
+VBreakfast Sides - Eggs (each) 2 oz = 1 egg
+p571
+sg11
+I120
+sa(dp572
+g3
+V
+sg4
+VTortillas
+p573
+sg6
+VDenny's
+p574
+sg8
+I0
+sg9
+I260
+sg10
+VSoups, Salads & Sides - Tortillas (3)
+p575
+sg11
+I660
+sa(dp576
+g3
+V
+sg4
+VBroccoli
+p577
+sg6
+VDenny's
+p578
+sg8
+I0
+sg9
+I25
+sg10
+VDinner Sides - Broccoli
+p579
+sg11
+I20
+sa(dp580
+g3
+V
+sg4
+VLemonade
+p581
+sg6
+VDenny's
+p582
+sg8
+I0
+sg9
+I150
+sg10
+VBeverages - Lemonade
+p583
+sg11
+I40
+sa(dp584
+g3
+V
+sg4
+VCroutons
+p585
+sg6
+VDenny's
+p586
+sg8
+I0
+sg9
+I90
+sg10
+VCondiments - Croutons (for Salad)
+p587
+sg11
+I240
+sa(dp588
+g3
+V
+sg4
+VSprite
+p589
+sg6
+VDenny's
+p590
+sg8
+I0
+sg9
+I150
+sg10
+V
+sg11
+I35
+sa(dp591
+g3
+Nsg4
+VDenny's Grand Slam - 1 breakfast
+p592
+sg6
+VNutritionix
+p593
+sg8
+F654.40999999999997
+sg9
+F844.46000000000004
+sg10
+Nsg11
+F1625.78
+sa(dp594
+g3
+V
+sg4
+VGrilled Ham Slice
+p595
+sg6
+VDenny's
+p596
+sg8
+I45
+sg9
+I100
+sg10
+V
+sg11
+I1020
+sa(dp597
+g3
+V
+sg4
+VButtermilk Biscuits
+p598
+sg6
+VDenny's
+p599
+sg8
+I0
+sg9
+I400
+sg10
+V
+sg11
+I1160
+sa(dp600
+g3
+V
+sg4
+VFrench Fries
+p601
+sg6
+VDenny's
+p602
+sg8
+I0
+sg9
+I510
+sg10
+V
+sg11
+I110
+sa(dp603
+g3
+V
+sg4
+VFit Slam
+p604
+sg6
+VDenny's
+p605
+sg8
+I30
+sg9
+I390
+sg10
+VSlams - Fit Slam
+p606
+sg11
+I890
+sa(dp607
+g3
+V
+sg4
+VUltimate Skillet
+p608
+sg6
+VDenny's
+p609
+sg8
+I465
+sg9
+I720
+sg10
+VSkillets - Ultimate Skillet
+p610
+sg11
+I1440
+sa(dp611
+g3
+V
+sg4
+VSausage Links
+p612
+sg6
+VDenny's
+p613
+sg8
+I60
+sg9
+I320
+sg10
+VBreakfast Sides - Sausage Links (4)
+p614
+sg11
+I650
+sa(dp615
+g3
+V
+sg4
+VOnion Rings
+p616
+sg6
+VDenny's
+p617
+sg8
+I0
+sg9
+I820
+sg10
+VSoups, Salads & Sides - Onion Rings
+p618
+sg11
+I1820
+sa(dp619
+g3
+V
+sg4
+VIced Tea, Unsweetened
+p620
+sg6
+VDenny's
+p621
+sg8
+I0
+sg9
+I0
+sg10
+V
+sg11
+I10
+sa(dp622
+g3
+V
+sg4
+VCoca-Cola
+p623
+sg6
+VDenny's
+p624
+sg8
+I0
+sg9
+I140
+sg10
+V
+sg11
+I10
+sa(dp625
+g3
+V
+sg4
+VWhipped Margarine
+p626
+sg6
+VDenny's
+p627
+sg8
+I0
+sg9
+I15
+sg10
+VCondiments - Whipped Margarine
+p628
+sg11
+I10
+sa(dp629
+g3
+V
+sg4
+VClam Chowder, Bowl
+p630
+sg6
+VDenny's
+p631
+sg8
+I45
+sg9
+I300
+sg10
+VSoups, Salads & Sides - Clam Chowder (bowl)
+p632
+sg11
+I1870
+sa(dp633
+g3
+V
+sg4
+VOriginal Grand Slam
+p634
+sg6
+VDenny's
+p635
+sg8
+I425
+sg9
+I840
+sg10
+VSlams - Original Grand Slam
+p636
+sg11
+I2080
+sa(dp637
+g3
+V
+sg4
+VSweet Petite Corn
+p638
+sg6
+VDenny's
+p639
+sg8
+I0
+sg9
+I130
+sg10
+VDinner Sides - Sweet Petite Corn
+p640
+sg11
+I0
+sa(dp641
+g3
+V
+sg4
+VMango Lemonade
+p642
+sg6
+VDenny's
+p643
+sg8
+I0
+sg9
+I210
+sg10
+V
+sg11
+I0
+sa(dp644
+g3
+V
+sg4
+VSeasonal Fruit
+p645
+sg6
+VDenny's
+p646
+sg8
+I0
+sg9
+I70
+sg10
+V
+sg11
+I5
+sa(dp647
+g3
+V
+sg4
+VChocolate Milk
+p648
+sg6
+VDenny's
+p649
+sg8
+I15
+sg9
+I280
+sg10
+V16 oz Chocolate Milk
+p650
+sg11
+I270
+sa(dp651
+g3
+V
+sg4
+VStrawberry Lemonade
+p652
+sg6
+VDenny's
+p653
+sg8
+I0
+sg9
+I200
+sg10
+VBeverages - Strawberry Lemonade
+p654
+sg11
+I0
+sa(dp655
+g3
+V
+sg4
+VCountry Gravy
+p656
+sg6
+VDenny's
+p657
+sg8
+I0
+sg9
+I45
+sg10
+V
+sg11
+I240
+sa(dp658
+g3
+V
+sg4
+VDr Pepper
+p659
+sg6
+VDenny's
+p660
+sg8
+I0
+sg9
+I140
+sg10
+V
+sg11
+I30
+sa(dp661
+g3
+V
+sg4
+VMilk Shakes, Strawberry
+p662
+sg6
+VDenny's
+p663
+sg8
+I140
+sg9
+I730
+sg10
+V
+sg11
+I230
+sa(dp664
+g3
+V
+sg4
+VTomato Juice
+p665
+sg6
+VDenny's
+p666
+sg8
+I0
+sg9
+I90
+sg10
+V
+sg11
+I1060
+sa(dp667
+g3
+V
+sg4
+VBourbon Sauce
+p668
+sg6
+VDenny's
+p669
+sg8
+I0
+sg9
+I150
+sg10
+V
+sg11
+I430
+sa(dp670
+g3
+V
+sg4
+VHearty Breakfast Skillet
+p671
+sg6
+VDenny's
+p672
+sg8
+I485
+sg9
+I1090
+sg10
+V
+sg11
+I2050
+sa(dp673
+g3
+V
+sg4
+VHot Chocolate
+p674
+sg6
+VDenny's
+p675
+sg8
+I0
+sg9
+I100
+sg10
+VBeverages - Hot Chocolate
+p676
+sg11
+I220
+sa(dp677
+g3
+V
+sg4
+V2% Milk
+p678
+sg6
+VDenny's
+p679
+sg8
+I35
+sg9
+I220
+sg10
+V16 oz Milk
+p680
+sg11
+I180
+sa(dp681
+g3
+V
+sg4
+VPancake Puppies
+p682
+sg6
+VDenny's
+p683
+sg8
+I0
+sg9
+I490
+sg10
+VAppetizers - Pancake Puppies
+p684
+sg11
+I1020
+sa(dp685
+g3
+V
+sg4
+VMashed Potatoes
+p686
+sg6
+VDenny's
+p687
+sg8
+I5
+sg9
+I200
+sg10
+VDinner Sides - Mashed Potatoes
+p688
+sg11
+I590
+sa(dp689
+g3
+V
+sg4
+VFUZE Raspberry Tea
+p690
+sg6
+VDenny's
+p691
+sg8
+I0
+sg9
+I70
+sg10
+VBeverages - FUZE Raspberry Tea
+p692
+sg11
+I10
+sa(dp693
+g3
+V
+sg4
+VGroovy Mango Smoothie
+p694
+sg6
+VDenny's
+p695
+sg8
+I0
+sg9
+I270
+sg10
+VSmoothies - Groovy Mango
+p696
+sg11
+I45
+sa(dp697
+g3
+V
+sg4
+VBacon Strips, 2 slices
+p698
+sg6
+VDenny's
+p699
+sg8
+I15
+sg9
+I70
+sg10
+V
+sg11
+I230
+sa(dp700
+g3
+V
+sg4
+VCaesar Dressing, 1.5 oz
+p701
+sg6
+VDenny's
+p702
+sg8
+I10
+sg9
+I210
+sg10
+VCondiments - Caesar Dressing
+p703
+sg11
+I420
+sa(dp704
+g3
+V
+sg4
+VCaramel Apple Pie Crisp
+p705
+sg6
+VDenny's
+p706
+sg8
+I35
+sg9
+I740
+sg10
+VDesserts - Caramel Apple Crisp
+p707
+sg11
+I570
+sa(dp708
+g3
+V
+sg4
+VChicken Noodle Soup, Cup
+p709
+sg6
+VDenny's
+p710
+sg8
+I50
+sg9
+I110
+sg10
+VSoups, Salads & Sides - Chicken Noodle Soup (cup)
+p711
+sg11
+I750
+sa(dp712
+g3
+V
+sg4
+VCaesar Dressing, 3 oz
+p713
+sg6
+VDenny's
+p714
+sg8
+I25
+sg9
+I430
+sg10
+V
+sg11
+I850
+sa(dp715
+g3
+V
+sg4
+VHi-C Fruit Punch
+p716
+sg6
+VDenny's
+p717
+sg8
+I0
+sg9
+I160
+sg10
+V
+sg11
+I15
+sa(dp718
+g3
+V
+sg4
+VRuby Red Grapefruit Juice
+p719
+sg6
+VDenny's
+p720
+sg8
+I0
+sg9
+I250
+sg10
+V
+sg11
+I65
+sa(dp721
+g3
+V
+sg4
+VFit Fare Tilapia Ranchero
+p722
+sg6
+VDenny's
+p723
+sg8
+I125
+sg9
+I550
+sg10
+VDinner - Fit Fare Tilapia Ranchero
+p724
+sg11
+I1030
+sa(dp725
+g3
+V
+sg4
+VAvocado Chicken Caesar Salad
+p726
+sg6
+VDenny's
+p727
+sg8
+I140
+sg9
+I660
+sg10
+VSoups, Salads & Sides - Avocado Chicken Caesar Salad w/ dressing & bread
+p728
+sg11
+I1860
+sa(dp729
+g3
+V
+sg4
+VBroccoli & Cheddar Soup, Cup
+p730
+sg6
+VDenny's
+p731
+sg8
+I25
+sg9
+I250
+sg10
+VSoups, Salads & Sides - Broccoli & Cheddar Soup (cup)
+p732
+sg11
+I1100
+sa(dp733
+g3
+V
+sg4
+VVegetable Beef Soup, Bowl
+p734
+sg6
+VDenny's
+p735
+sg8
+I15
+sg9
+I170
+sg10
+VSoups, Salads & Sides - Vegetable Beef Soup (bowl)
+p736
+sg11
+I1550
+sa(dp737
+g3
+V
+sg4
+VSlamburger (add side choice)
+p738
+sg6
+VDenny's
+p739
+sg8
+I310
+sg9
+I1010
+sg10
+V
+sg11
+I1960
+sa(dp740
+g3
+V
+sg4
+VFresh Sauteed Zucchini & Squash
+p741
+sg6
+VDenny's
+p742
+sg8
+I0
+sg9
+I60
+sg10
+V
+sg11
+I105
+sa.
