@@ -1,0 +1,616 @@
+(lp1
+S'Outback Sirloin, 9 Oz SIGNATURE STEAKS - Outback Special 9 oz'
+p2
+aS'Outback Sirloin, 6 Oz SIGNATURE STEAKS - Outback Special 6 oz'
+p3
+aS'Outback Flat Iron '
+p4
+aS'Outback Calzone Calzones - Outback Calzone'
+p5
+aS'Outback Sirloin, 12 Oz SIGNATURE STEAKS - Outback Special 12 oz'
+p6
+aS'Outback Pizza, Personal Baked Personal Pizzas - outback'
+p7
+aS'Outback Pizza, Medium MEDIUM PIZZAS - outback'
+p8
+aS'Outback Pizza, Large LARGE PIZZAS - outback'
+p9
+aS'House Salad FRESHLY MADE SIDES - House Salad'
+p10
+aS'Sesame Salad '
+p11
+aS'Outback Pizza, Family FAMILY PIZZAS - outback'
+p12
+aS'The Outbacker Burger Without Cheese BURGERS & SANDWICHES - The Outbacker Burger'
+p13
+aS"Bloomin' Onion AUSSIE-TIZERS TO SHARE - Bloomin' Onion&reg;"
+p14
+aS'Firecracker Salmon '
+p15
+aS'Pork Porterhouse '
+p16
+aS'Double Burger BURGERS & SANDWICHES - Double Burger'
+p17
+aS'Ribeye Melt '
+p18
+aS'Aussie Fries FRESHLY MADE SIDES - Aussie Fries'
+p19
+aS'Caesar Salad FRESHLY MADE SIDES - Caesar Salad'
+p20
+aS'Garlic Mashed Potatoes FRESHLY MADE SIDES - Garlic Mashed Potatoes'
+p21
+aS"The Bloomin' Burger "
+p22
+aS'Tomato Mozzarella Caprese '
+p23
+aS'Chicken Tender Platter '
+p24
+aS'Bloom Petals '
+p25
+aS'Broccoli & Cheese '
+p26
+aS'Wings AUSSIE-TIZERS TO SHARE - Wings'
+p27
+aS'Alice Springs Chicken OUTBACK FAVORITES - Alice Springs Chicken&reg;'
+p28
+aS'Teriyaki Steak Medallions SPECIALTY CUTS & COMBOS - Teriyaki Filet Medallions'
+p29
+aS'French Onion Soup '
+p30
+aS'Aussie Chicken Tacos '
+p31
+aS'Blue Cheese Crumbles Add On Mates - Blue Cheese Crumb Topping'
+p32
+aS'Crab & Avocado Stack AUSSIE-TIZERS TO SHARE - Crab & Avocado Stack - Aussi-tizers&reg; to Share'
+p33
+aS'New Zealand Lamb OUTBACK FAVORITES - New Zealand Rack Of Lamb'
+p34
+aS'Bloom Petals Topping '
+p35
+aS'Aussie Steak Tacos '
+p36
+aS'Loaded Mashed Potatoes '
+p37
+aS'Aussie Fish Tacos '
+p38
+aS'Steakhouse Mac & Cheese '
+p39
+aS'Great Barrier Trio Aussietizers - Crab Stack'
+p40
+aS'Baby Back Ribs Outback Favorites - Baby Back Ribs Full Order'
+p41
+aS'Aussie Cheese Fries, Small AUSSIE-TIZERS TO SHARE - Aussie Cheese Fries Small'
+p42
+aS"Victoria's Filet Mignon, 6 Oz SIGNATURE STEAKS - Victoria's Filet 6 oz"
+p43
+aS'Chocolate Thunder From Down Under IRRESISTIBLE DESSERTS - Chocolate Thunder From Down Under'
+p44
+aS'Crispy Chicken Sandwich BURGERS & SANDWICHES - Crispy Chicken Sandwich'
+p45
+aS'Outback Sirloin, 9 Oz SIGNATURE STEAKS - Outback Special 9 oz'
+p46
+aS'Outback Sirloin, 6 Oz SIGNATURE STEAKS - Outback Special 6 oz'
+p47
+aS'Outback Flat Iron '
+p48
+aS'Outback Calzone Calzones - Outback Calzone'
+p49
+aS'Outback Sirloin, 12 Oz SIGNATURE STEAKS - Outback Special 12 oz'
+p50
+aS'Outback Pizza, Personal Baked Personal Pizzas - outback'
+p51
+aS'Outback Pizza, Medium MEDIUM PIZZAS - outback'
+p52
+aS'Outback Pizza, Large LARGE PIZZAS - outback'
+p53
+aS'House Salad FRESHLY MADE SIDES - House Salad'
+p54
+aS'Sesame Salad '
+p55
+aS'Outback Pizza, Family FAMILY PIZZAS - outback'
+p56
+aS'The Outbacker Burger Without Cheese BURGERS & SANDWICHES - The Outbacker Burger'
+p57
+aS"Bloomin' Onion AUSSIE-TIZERS TO SHARE - Bloomin' Onion&reg;"
+p58
+aS'Firecracker Salmon '
+p59
+aS'Pork Porterhouse '
+p60
+aS'Double Burger BURGERS & SANDWICHES - Double Burger'
+p61
+aS'Aussie Fries FRESHLY MADE SIDES - Aussie Fries'
+p62
+aS'Caesar Salad FRESHLY MADE SIDES - Caesar Salad'
+p63
+aS'Ribeye Melt '
+p64
+aS'Garlic Mashed Potatoes FRESHLY MADE SIDES - Garlic Mashed Potatoes'
+p65
+aS"The Bloomin' Burger "
+p66
+aS'Tomato Mozzarella Caprese '
+p67
+aS'Chicken Tender Platter '
+p68
+aS'Alice Springs Chicken OUTBACK FAVORITES - Alice Springs Chicken&reg;'
+p69
+aS'Teriyaki Steak Medallions SPECIALTY CUTS & COMBOS - Teriyaki Filet Medallions'
+p70
+aS'French Onion Soup '
+p71
+aS'Aussie Chicken Tacos '
+p72
+aS'Bloom Petals '
+p73
+aS'Broccoli & Cheese '
+p74
+aS'Wings AUSSIE-TIZERS TO SHARE - Wings'
+p75
+aS'Blue Cheese Crumbles Add On Mates - Blue Cheese Crumb Topping'
+p76
+aS'Crab & Avocado Stack AUSSIE-TIZERS TO SHARE - Crab & Avocado Stack - Aussi-tizers&reg; to Share'
+p77
+aS'New Zealand Lamb OUTBACK FAVORITES - New Zealand Rack Of Lamb'
+p78
+aS'Bloom Petals Topping '
+p79
+aS'Aussie Steak Tacos '
+p80
+aS'Great Barrier Trio Aussietizers - Crab Stack'
+p81
+aS'Baby Back Ribs Outback Favorites - Baby Back Ribs Full Order'
+p82
+aS'Loaded Mashed Potatoes '
+p83
+aS'Aussie Fish Tacos '
+p84
+aS'Steakhouse Mac & Cheese '
+p85
+aS'Aussie Cheese Fries, Small AUSSIE-TIZERS TO SHARE - Aussie Cheese Fries Small'
+p86
+aS"Victoria's Filet Mignon, 6 Oz SIGNATURE STEAKS - Victoria's Filet 6 oz"
+p87
+aS'Chocolate Thunder From Down Under IRRESISTIBLE DESSERTS - Chocolate Thunder From Down Under'
+p88
+aS'Grilled Shrimp Add-On Add On Mates - 4 Grilled Shrimp'
+p89
+aS'Outback Sirloin, 9 Oz SIGNATURE STEAKS - Outback Special 9 oz'
+p90
+aS'Outback Sirloin, 6 Oz SIGNATURE STEAKS - Outback Special 6 oz'
+p91
+aS'Outback Flat Iron '
+p92
+aS'Outback Calzone Calzones - Outback Calzone'
+p93
+aS'Outback Sirloin, 12 Oz SIGNATURE STEAKS - Outback Special 12 oz'
+p94
+aS'Outback Pizza, Personal Baked Personal Pizzas - outback'
+p95
+aS'Outback Pizza, Medium MEDIUM PIZZAS - outback'
+p96
+aS'Outback Pizza, Large LARGE PIZZAS - outback'
+p97
+aS'Outback Pizza, Family FAMILY PIZZAS - outback'
+p98
+aS'House Salad FRESHLY MADE SIDES - House Salad'
+p99
+aS'Sesame Salad '
+p100
+aS'The Outbacker Burger Without Cheese BURGERS & SANDWICHES - The Outbacker Burger'
+p101
+aS"Bloomin' Onion AUSSIE-TIZERS TO SHARE - Bloomin' Onion&reg;"
+p102
+aS'Firecracker Salmon '
+p103
+aS'Pork Porterhouse '
+p104
+aS'Ribeye Melt '
+p105
+aS'Aussie Fries FRESHLY MADE SIDES - Aussie Fries'
+p106
+aS'Caesar Salad FRESHLY MADE SIDES - Caesar Salad'
+p107
+aS'Double Burger BURGERS & SANDWICHES - Double Burger'
+p108
+aS'Garlic Mashed Potatoes FRESHLY MADE SIDES - Garlic Mashed Potatoes'
+p109
+aS"The Bloomin' Burger "
+p110
+aS'Tomato Mozzarella Caprese '
+p111
+aS'Chicken Tender Platter '
+p112
+aS'Bloom Petals '
+p113
+aS'Broccoli & Cheese '
+p114
+aS'Wings AUSSIE-TIZERS TO SHARE - Wings'
+p115
+aS'Alice Springs Chicken OUTBACK FAVORITES - Alice Springs Chicken&reg;'
+p116
+aS'Teriyaki Steak Medallions SPECIALTY CUTS & COMBOS - Teriyaki Filet Medallions'
+p117
+aS'French Onion Soup '
+p118
+aS'Aussie Chicken Tacos '
+p119
+aS'Loaded Mashed Potatoes '
+p120
+aS'Aussie Fish Tacos '
+p121
+aS'Steakhouse Mac & Cheese '
+p122
+aS'Great Barrier Trio Aussietizers - Crab Stack'
+p123
+aS'Baby Back Ribs Outback Favorites - Baby Back Ribs Full Order'
+p124
+aS'Blue Cheese Crumbles Add On Mates - Blue Cheese Crumb Topping'
+p125
+aS'Crab & Avocado Stack AUSSIE-TIZERS TO SHARE - Crab & Avocado Stack - Aussi-tizers&reg; to Share'
+p126
+aS'New Zealand Lamb OUTBACK FAVORITES - New Zealand Rack Of Lamb'
+p127
+aS'Bloom Petals Topping '
+p128
+aS'Aussie Steak Tacos '
+p129
+aS'Aussie Cheese Fries, Small AUSSIE-TIZERS TO SHARE - Aussie Cheese Fries Small'
+p130
+aS"Victoria's Filet Mignon, 6 Oz SIGNATURE STEAKS - Victoria's Filet 6 oz"
+p131
+aS'Chocolate Thunder From Down Under IRRESISTIBLE DESSERTS - Chocolate Thunder From Down Under'
+p132
+aS'Crispy Chicken Sandwich BURGERS & SANDWICHES - Crispy Chicken Sandwich'
+p133
+aS'Chocolate Mini Milkshake MINI MILKSHAKES - Chocolate Mini Milkshake'
+p134
+aS'Outback Sirloin, 9 Oz SIGNATURE STEAKS - Outback Special 9 oz'
+p135
+aS'Outback Sirloin, 6 Oz SIGNATURE STEAKS - Outback Special 6 oz'
+p136
+aS'Outback Flat Iron '
+p137
+aS'Outback Calzone Calzones - Outback Calzone'
+p138
+aS'Outback Sirloin, 12 Oz SIGNATURE STEAKS - Outback Special 12 oz'
+p139
+aS'Outback Pizza, Personal Baked Personal Pizzas - outback'
+p140
+aS'Outback Pizza, Medium MEDIUM PIZZAS - outback'
+p141
+aS'Outback Pizza, Large LARGE PIZZAS - outback'
+p142
+aS'House Salad FRESHLY MADE SIDES - House Salad'
+p143
+aS'Sesame Salad '
+p144
+aS'Outback Pizza, Family FAMILY PIZZAS - outback'
+p145
+aS'The Outbacker Burger Without Cheese BURGERS & SANDWICHES - The Outbacker Burger'
+p146
+aS"Bloomin' Onion AUSSIE-TIZERS TO SHARE - Bloomin' Onion&reg;"
+p147
+aS'Firecracker Salmon '
+p148
+aS'Pork Porterhouse '
+p149
+aS'Ribeye Melt '
+p150
+aS'Aussie Fries FRESHLY MADE SIDES - Aussie Fries'
+p151
+aS'Caesar Salad FRESHLY MADE SIDES - Caesar Salad'
+p152
+aS'Double Burger BURGERS & SANDWICHES - Double Burger'
+p153
+aS'Garlic Mashed Potatoes FRESHLY MADE SIDES - Garlic Mashed Potatoes'
+p154
+aS"The Bloomin' Burger "
+p155
+aS'Tomato Mozzarella Caprese '
+p156
+aS'Chicken Tender Platter '
+p157
+aS'Wings AUSSIE-TIZERS TO SHARE - Wings'
+p158
+aS'Bloom Petals '
+p159
+aS'Broccoli & Cheese '
+p160
+aS'Alice Springs Chicken OUTBACK FAVORITES - Alice Springs Chicken&reg;'
+p161
+aS'Teriyaki Steak Medallions SPECIALTY CUTS & COMBOS - Teriyaki Filet Medallions'
+p162
+aS'French Onion Soup '
+p163
+aS'Aussie Chicken Tacos '
+p164
+aS'Loaded Mashed Potatoes '
+p165
+aS'Aussie Fish Tacos '
+p166
+aS'Steakhouse Mac & Cheese '
+p167
+aS'Great Barrier Trio Aussietizers - Crab Stack'
+p168
+aS'Baby Back Ribs Outback Favorites - Baby Back Ribs Full Order'
+p169
+aS'Blue Cheese Crumbles Add On Mates - Blue Cheese Crumb Topping'
+p170
+aS'Crab & Avocado Stack AUSSIE-TIZERS TO SHARE - Crab & Avocado Stack - Aussi-tizers&reg; to Share'
+p171
+aS'New Zealand Lamb OUTBACK FAVORITES - New Zealand Rack Of Lamb'
+p172
+aS'Bloom Petals Topping '
+p173
+aS'Aussie Steak Tacos '
+p174
+aS'Lasagna Classico '
+p175
+aS'Hot Chocolate '
+p176
+aS'Tuscan Sirloin '
+p177
+aS'Fried Mozzarella '
+p178
+aS'Chocolate Sauce '
+p179
+aS'Fettuccine Alfredo '
+p180
+aS'Chicken Marsala '
+p181
+aS'Eggplant Parmigiana '
+p182
+aS'Shrimp Alfredo '
+p183
+aS'Lavazza Espresso '
+p184
+aS'Caffe Latte '
+p185
+aS'Caffe Mocha '
+p186
+aS'Tiramisu '
+p187
+aS'Chicken Parmigiana '
+p188
+aS'Chicken Scampi '
+p189
+aS'Stuffed Mushrooms '
+p190
+aS'Lobster Ravioli '
+p191
+aS'Vodka Pasta Sauce None'
+p192
+aS'Pasta Sauce, Low Fat, Vodka Low Fat, Vodka'
+p193
+aS'Pasta None'
+p194
+aS'Pasta None'
+p195
+aS'Pasta None'
+p196
+aS'Pasta None'
+p197
+aS'Classic Benedict Signature Eggsbenedict - Classic Benedict'
+p198
+aS'Smoked Salmon Benedict Signature Eggsbenedict - Smoked Salmon Benedict'
+p199
+aS'Bagel Benedict Signature Eggsbenedict - Bagel Benedict'
+p200
+aS'Chicken Benedict Signature Eggsbenedict - Chicken Benedict'
+p201
+aS'Eggs Benedict Breakfast Menu - Daybreak Traditionals - Eggs Benedict'
+p202
+aS'Florentine Benedict Signature Eggsbenedict - Florentine Benedict'
+p203
+aS'Chesapeake Benedict Signature Eggsbenedict - Chesapeake Benedict'
+p204
+aS'Eggs Benedict Breakfast - Eggs Benedict'
+p205
+aS'Eggs Benedict Egg Combos - Eggs Benedict'
+p206
+aS'Eggs Benedict Gourmet Francais - Eggs Benedict* 1 svg'
+p207
+aS'Eggs Benedict Breakfast - Farm Fresh Eggs, Etc. - Eggs Benedict'
+p208
+aS'Yogurt '
+p209
+aS'Eggs Breakfast Sides - Eggs (each) 2 oz = 1 egg'
+p210
+aS"Denny's Grand Slam - 1 breakfast None"
+p211
+aS'Chocolate Milk 16 oz Chocolate Milk'
+p212
+aS'Clam Chowder, Bowl Soups, Salads & Sides - Clam Chowder (bowl)'
+p213
+aS'Original Grand Slam Slams - Original Grand Slam'
+p214
+aS'Milk Shakes, Strawberry '
+p215
+aS'Grilled Ham Slice '
+p216
+aS'Fit Slam Slams - Fit Slam'
+p217
+aS'Ultimate Skillet Skillets - Ultimate Skillet'
+p218
+aS'Sausage Links Breakfast Sides - Sausage Links (4)'
+p219
+aS'Side Caesar Salad '
+p220
+aS'French Toast Slam Slams - French Toast Slam'
+p221
+aS'Golden-Fried Shrimp Dinner Sides - Golden-Fried Shrimp'
+p222
+aS'Brooklyn Spaghetti & Meatballs Dinner - Brooklyn Spaghetti & Meatballs'
+p223
+aS'Clam Chowder, Cup Soups, Salads & Sides - Clam Chowder (cup)'
+p224
+aS'Iced Cappuccino '
+p225
+aS'Milk Shakes, Oreo '
+p226
+aS'Fit Fare Tilapia Ranchero Dinner - Fit Fare Tilapia Ranchero'
+p227
+aS'Avocado Chicken Caesar Salad Soups, Salads & Sides - Avocado Chicken Caesar Salad w/ dressing & bread'
+p228
+aS'Broccoli & Cheddar Soup, Cup Soups, Salads & Sides - Broccoli & Cheddar Soup (cup)'
+p229
+aS'Vegetable Beef Soup, Bowl Soups, Salads & Sides - Vegetable Beef Soup (bowl)'
+p230
+aS'Slamburger (add side choice) '
+p231
+aS'Make it a Combo, Ancho Salmon '
+p232
+aS'Make it a Combo, Half Rack of Craft Beer BBQ Ribs '
+p233
+aS'Bone-In Wings, Smoked '
+p234
+aS'Triple Dipper Crispy Cheddar Bites '
+p235
+aS'Fresco Salad '
+p236
+aS'Crispy Cheddar Bites '
+p237
+aS'Spiced Panko Onion Rings '
+p238
+aS'Fresh Mex Pairing Chicken Enchilada Soup, Cup '
+p239
+aS'Skillet Toffee Fudge Brownie '
+p240
+aS'Lunch Combo Top Shelf Ranchero Chicken Tacos '
+p241
+aS'Boneless Buffalo Chicken Salad SALADS - Boneless Buffalo Chicken Salad'
+p242
+aS'Caribbean Salad with Seared Shrimp SALADS - Caribbean Salad w/ Grilled Shrimp'
+p243
+aS'Swiss Cheese EXTRAS - Cheese, Swiss'
+p244
+aS'Sour Cream EXTRAS - Sour Cream'
+p245
+aS'California Grilled Chicken Flatbread FLATBREADS - Full Size - California Grilled Chicken'
+p246
+aS'Margherita Flatbread FLATBREADS - Full Size - Margherita'
+p247
+aS'Thousand Island Dressing, Lunch Combo portion EXTRAS - Dressing, Thousand Island'
+p248
+aS'Texas Cheese Fries, Full Order APPETIZERS - Texas Cheese Fries - Full Order'
+p249
+aS'Fresh Mex Pairing Chicken Taco FRESH MEX - Tacos - Chicken Soft Taco (1 each)'
+p250
+aS'Kids Corn Dog KIDS - Corn Dog'
+p251
+aS'Kids Pepperoni Pizza KIDS - Pizza - Pepperoni - 6 "'
+p252
+aS'Dr. Pepper BBQ Ribs, Half Rack BABY BACK RIBS - Original Ribs - Half Rack'
+p253
+aS'Lunch Combo Smoked Chicken Quesadilla LUNCH COMBOS (listed without soup or salad) - Southwestern BLT Toasted Sandwich'
+p254
+aS'Lunch Combo Chipotle Chicken Bowl with Rice LUNCH COMBOS (listed without soup or salad) - Fresh Mex Chipotle Chicken Bowl'
+p255
+aS'Kids Side Salad without Dressing KIDS - Side Salad w/ Low-Fat Ranch'
+p256
+aS'Triple Dipper Big Mouth Bites TRIPLE DIPPER - TD? Big Mouth&reg; Bites'
+p257
+aS'Beef Enchiladas FRESH MEX - Enchiladas - Beef Enchilada Platter'
+p258
+aS'Chicken Enchiladas with Sour Cream Sauce FRESH MEX - Enchiladas - Sour Cream Chicken Enchilada Platter'
+p259
+aS'Kids Cheese Quesadilla KIDS - Cheese Quesadilla'
+p260
+aS'Kids Crispy Chicken Crispers KIDS - Crispy Chicken Crispers'
+p261
+aS'Lunch Combo Bacon Avocado Chicken Sandwich LUNCH COMBOS (listed without soup or salad) - Bacon Avocado Chicken Sandwich Combo'
+p262
+aS'Fajita Toppings MIX & MATCH FAJITAS - Choice of Tortillas & Toppings - Fajita Toppings'
+p263
+aS'Fresh Mex Pairing Enchilada Chicken Sour Cream FRESH MEX - Enchiladas - Sour Cream Chicken Enchilada (1 each)'
+p264
+aS'Kids 2% Chocolate Milk BEVERAGES - Kids - Chocolate Milk'
+p265
+aS'Vodka Pasta Sauce None'
+p266
+aS'Pasta Sauce, Low Fat, Vodka Low Fat, Vodka'
+p267
+aS'Pasta None'
+p268
+aS'Pasta None'
+p269
+aS'Pasta None'
+p270
+aS'Pasta None'
+p271
+aS'Waffle Benedict Signature Eggsbenedict - Waffle Benedict'
+p272
+aS'Benedictine Spread None'
+p273
+aS'Benedictine Spread None'
+p274
+aS'Eggs Benedict Breakfast Specialties - Eggs Benedict'
+p275
+aS'Burgundy Sauce, Gourmet Gourmet'
+p276
+aS'Bearnaise Sauce, Gourmet Gourmet'
+p277
+aS'Harvest Benedict BENEDICTS - Harvest Benedict'
+p278
+aS'Eggs Benedict BRUNCH - Eggs Benny'
+p279
+aS'Eggs Benedict Breakfast Menu - Daybreak Traditionals - Eggs Benedict'
+p280
+aS'Classic Benedict Signature Eggsbenedict - Classic Benedict'
+p281
+aS'Smoked Salmon Benedict Signature Eggsbenedict - Smoked Salmon Benedict'
+p282
+aS'Bagel Benedict Signature Eggsbenedict - Bagel Benedict'
+p283
+aS'Chicken Benedict Signature Eggsbenedict - Chicken Benedict'
+p284
+aS'Yogurt '
+p285
+aS'Eggs Breakfast Sides - Eggs (each) 2 oz = 1 egg'
+p286
+aS"Denny's Grand Slam - 1 breakfast None"
+p287
+aS'Grilled Ham Slice '
+p288
+aS'Fit Slam Slams - Fit Slam'
+p289
+aS'Ultimate Skillet Skillets - Ultimate Skillet'
+p290
+aS'Sausage Links Breakfast Sides - Sausage Links (4)'
+p291
+aS'Clam Chowder, Bowl Soups, Salads & Sides - Clam Chowder (bowl)'
+p292
+aS'Original Grand Slam Slams - Original Grand Slam'
+p293
+aS'Chocolate Milk 16 oz Chocolate Milk'
+p294
+aS'Milk Shakes, Strawberry '
+p295
+aS'Hearty Breakfast Skillet '
+p296
+aS'2% Milk 16 oz Milk'
+p297
+aS'Mashed Potatoes Dinner Sides - Mashed Potatoes'
+p298
+aS'Bacon Strips, 2 slices '
+p299
+aS'Caesar Dressing, 1.5 oz Condiments - Caesar Dressing'
+p300
+aS'Caramel Apple Pie Crisp Desserts - Caramel Apple Crisp'
+p301
+aS'Chicken Noodle Soup, Cup Soups, Salads & Sides - Chicken Noodle Soup (cup)'
+p302
+aS'Caesar Dressing, 3 oz '
+p303
+aS'Fit Fare Tilapia Ranchero Dinner - Fit Fare Tilapia Ranchero'
+p304
+aS'Avocado Chicken Caesar Salad Soups, Salads & Sides - Avocado Chicken Caesar Salad w/ dressing & bread'
+p305
+aS'Broccoli & Cheddar Soup, Cup Soups, Salads & Sides - Broccoli & Cheddar Soup (cup)'
+p306
+aS'Vegetable Beef Soup, Bowl Soups, Salads & Sides - Vegetable Beef Soup (bowl)'
+p307
+aS'Slamburger (add side choice) '
+p308
+a.
