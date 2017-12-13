@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/andylane/menusights/dnn_models/dnn_10node_200epoch_tan-relu-linear_80pcttrain_nosoftmax_with_dropout_L2linear_removed_weightdecay.tflearn"
+all_model_checkpoint_paths: "/home/andylane/menusights/dnn_models/dnn_10node_200epoch_tan-relu-linear_80pcttrain_nosoftmax_with_dropout_L2linear_removed_weightdecay.tflearn"

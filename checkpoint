@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/andylane/menusights/menusights/linear_model_08.tf"
-all_model_checkpoint_paths: "/home/andylane/menusights/menusights/linear_model_08.tf"
+model_checkpoint_path: "/home/andylane/menusights/dnn_300node_2000epoch_80pct.tflearn"
+all_model_checkpoint_paths: "/home/andylane/menusights/dnn_300node_2000epoch_80pct.tflearn"
