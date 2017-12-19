@@ -3,3 +3,5 @@ graph
 __pycache__
 tf_examples
 .ipynb_checkpoints
+*.npy
+*.mdl
