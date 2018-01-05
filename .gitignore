@@ -5,3 +5,4 @@ tf_examples
 .ipynb_checkpoints
 *.npy
 *.mdl
+*.zip
